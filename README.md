@@ -22,8 +22,5 @@ During the project, I learned:
 
 ## 📂 Dashboard File
 
-👉 [Download/View PBIX File](#) *(Insert your GitHub PBIX file link here)*
+👉 Finance dashboard.pbix
 
----
-
-**#PowerBI #FinanceDashboard #DAX #DataAnalytics #LearningProject**
