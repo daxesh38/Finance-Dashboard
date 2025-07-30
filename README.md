@@ -22,4 +22,5 @@ During the project, I learned:
 
 ## 📂 Dashboard File
 
-👉 [Download/View PBIX File](#) *()*
+👉 [Download/View PBIX File](#) *(https://github.com/daxesh38/Finance-Dashboard/blob/main/Finance%20dashboard.pbix
+)*
